@@ -1,0 +1,150 @@
+GFI001 - História da Filosofia Antiga 1
+GFI007 - História da Filosofia Antiga 2
+GFI002 - Filosofia Geral: Problemas Metafísicos 1
+GFI008 - Filosofia Geral: Problemas Metafísicos 2
+GFI003 - Ética 1
+GFI005 - Leitura e Produção de Textos em Filosofia 1
+GFI010 - Leitura e Produção de Textos em Filosofia 2
+GFI012 - História da Filosofia Medieval 1
+GFI018 - História da Filosofia Medieval 2
+GFI013 - História da Filosofia Moderna 1
+GFI020 - História da Filosofia Moderna 2
+GFI017 - Teoria do Conhecimento
+GFI014 - Filosofia Política
+GFI021 - Lógica 1
+GFI027 - Lógica 2
+GFI022 - Ética 2
+GFI028 - Estética 1
+GFI032 - Estética 2
+GFI033 - Filosofia da História
+GFI026 - História da Filosofia Contemporânea 1
+GFI031 - História da Filosofia Contemporânea 2
+GFI036 - História da Filosofia Contemporânea 3
+GFI037 – Filosofia Social
+GFI038 - Filosofia da Ciência
+GFI023 - Filosofia da Educação 1
+GFI029 - Metodologia do Ensino da Filosofia
+GFI035   Projeto de TCC
+GFI039   TCC
+GFI006 – PIPE1
+GFI011 – PIPE 2
+GFI016 – PIPE3
+GFI019 – PIPE 4
+GFI024 – PIPE 5
+GFI030 – PIPE 6
+GFI034 – PIPE 7
+GFI040 – Iniciação ao Estágio: Seminários Temáticos
+GFI041 – Estágio Supervisionado 1
+GFI043 – Estágio Supervisionado 2
+GFI004 - Língua Francesa: Aprendizagem crítico-reflexiva – Instituto de Letras e Linguística
+GFI009 - Língua Francesa: fundamentos lingüísticos - Instituto de Letras e Linguística
+GFI015 - Desenvolvimento de estratégias e habilidade de leitura em Língua Francesa – Instituto de Letras e Linguística
+GFP050 - Psicologia da Educação – Instituto de Psicologia
+GFP031 – Didática – Faculdade de Educação
+GFP041 - Política e Gestão Educacional – Faculdade de Educação
+LIBRAS01 -  Língua Brasileira de Sinais 1 – Faculdade de Educação (disciplina obrigatória para ingressantes a partir de 2011)
+GFI064 - Filosofia da Linguagem 1
+GFI065 - Filosofia da Linguagem 2
+GFI066 - Filosofia da Matemática 1
+GFI067 - Filosofia da Matemática 2
+GFI068 - Filosofia do Direito 1
+GFI069 - Filosofia do Direito 2
+GFI079 – História da Filosofia no Brasil
+GFI080 – História da Filosofia Oriental
+GFI081 - História da Filosofia da América Latina
+GFI082 – História da Filosofia em Portugal
+GFI083 – Filosofia da Mente 1
+GFI084 – Filosofia da Mente 2
+GFI085 – Filosofia da Religião 1
+GFI086 – Filosofia da Religião 2
+GFI087 - Tópicos Especiais de História da Filosofia Antiga 1
+GFI088 - Tópicos Especiais de História da Filosofia Antiga 2
+GFI089 - Tópicos Especiais de História da Filosofia Antiga 3
+GFI090 - Tópicos Especiais de História da Filosofia Antiga 4
+GFI091 - Tópicos Especiais de História da Filosofia Antiga 5
+GFI092 - Tópicos Especiais de História da Filosofia Antiga 6
+GFI093 - Tópicos Especiais de Filosofia Geral: Problemas Metafísicos 1
+GFI094 - Tópicos Especiais de Filosofia Geral: Problemas Metafísicos 2
+GFI095 - Tópicos Especiais de Filosofia Geral: Problemas Metafísicos 3
+GFI096 - Tópicos Especiais de Filosofia Geral: Problemas Metafísicos 4
+GFI097 - Tópicos Especiais de Filosofia Geral: Problemas Metafísicos 5
+GFI098 - Tópicos Especiais de Filosofia Geral: Problemas Metafísicos 6
+GFI099 - Tópicos Especiais de Filosofia Geral: Problemas Metafísicos 7
+GFI100 - Tópicos Especiais de Filosofia Geral: Problemas Metafísicos 8
+GFI101 - Tópicos Especiais de Filosofia Geral: Problemas Metafísicos 9
+GFI102 - Tópicos Especiais de História da Filosofia Medieval 1
+GFI103 - Tópicos Especiais de História da Filosofia Medieval 2
+GFI104 - Tópicos Especiais de História da Filosofia Medieval 3
+GFI105 - Tópicos Especiais de História da Filosofia Medieval 4
+GFI106 - Tópicos Especiais de História da Filosofia Medieval 5
+GFI107 - Tópicos Especiais de História da Filosofia Medieval 6
+GFI108 - Tópicos Especiais de História da Filosofia Moderna 1
+GFI109 - Tópicos Especiais de História da Filosofia Moderna 2
+GFI110 - Tópicos Especiais de História da Filosofia Moderna 3
+GFI111 - Tópicos Especiais de História da Filosofia Moderna 4
+GFI112 - Tópicos Especiais de História da Filosofia Moderna 5
+GFI113 - Tópicos Especiais de História da Filosofia Moderna 6
+GFI114 - Tópicos Especiais de História da Filosofia Moderna 7
+GFI115 - Tópicos Especiais de História da Filosofia Moderna 8
+GFI116 - Tópicos Especiais de Teoria do Conhecimento 1
+GFI117 - Tópicos Especiais de Teoria do Conhecimento 2
+GFI118 - Tópicos Especiais de Teoria do Conhecimento 3
+GFI119 - Tópicos Especiais de Teoria do Conhecimento 4
+GFI120 - Tópicos Especiais de Teoria do Conhecimento 5
+GFI121 - Tópicos Especiais de Filosofia Política 1
+GFI122 - Tópicos Especiais de Filosofia Política 2
+GFI123 - Tópicos Especiais de Filosofia Política 3
+GFI124 - Tópicos Especiais de Filosofia Política 4
+GFI125 - Tópicos Especiais de Filosofia Política 5
+GFI126 - Tópicos Especiais de Filosofia Política 6
+GFI127 - Tópicos Especiais de Filosofia Política 7
+GFI128 - Tópicos Especiais de Filosofia Política 8
+GFI129 - Tópicos Especiais de Filosofia Política 9
+GFI130 - Tópicos Especiais de Filosofia Política 10
+GFI131 - Tópicos Especiais de Lógica 1
+GFI132 - Tópicos Especiais de Lógica 2
+GFI133 - Tópicos Especiais de Lógica 3
+GFI134 - Tópicos Especiais de Ética 1
+FI135 - Tópicos Especiais de Ética 2
+GFI136 - Tópicos Especiais de Ética 3
+GFI137 - Tópicos Especiais de Ética 4
+GFI138 - Tópicos Especiais de Ética 5
+GFI139 - Tópicos Especiais de Estética 1
+GFI140 - Tópicos Especiais de Estética 2
+GFI141 - Tópicos Especiais de Estética 3
+GFI142 - Tópicos Especiais de Estética 4
+GFI143 - Tópicos Especiais de Filosofia da História 1
+GFI144 - Tópicos Especiais de Filosofia da História 2
+GFI145 - Tópicos Especiais de Filosofia da História 3
+GFI146 - Tópicos Especiais de História da Filosofia Contemporânea 1
+GFI147 - Tópicos Especiais de História da Filosofia Contemporânea 2
+GFI148 - Tópicos Especiais de História da Filosofia Contemporânea 3
+GFI149 - Tópicos Especiais de História da Filosofia Contemporânea 4
+GFI150 - Tópicos Especiais de História da Filosofia Contemporânea 5
+GFI151 - Tópicos Especiais de História da Filosofia Contemporânea 6
+GFI152 - Tópicos Especiais de História da Filosofia Contemporânea 7
+GFI153 - Tópicos Especiais de História da Filosofia Contemporânea 8
+GFI154 - Tópicos Especiais de História da Filosofia Contemporânea 9
+GFI155 - Tópicos Especiais de História da Filosofia Contemporânea 10
+GFI156 - Tópicos Especiais de História da Filosofia Contemporânea 11
+GFI157 - Tópicos Especiais de Filosofia da Ciência 1
+GFI158 - Tópicos Especiais de Filosofia da Ciência 2
+GFI159 - Tópicos Especiais de Filosofia da Ciência 3
+GFI160 - Tópicos Especiais de Filosofia Social
+GFI161 - Tópicos Especiais de Filosofia da Educação
+GFI162 – Orientação de TCC
+GFI163 – Seminário de Orientação de Trabalho de Conclusão de Curso
+GFI071   Estudos Clássicos: Latim 1 – Instituto de Letras e Linguística
+GFI072   Estudos Clássicos: Latim 2 – Instituto de Letras e Linguística
+GFI073   Estudos Clássicos: Latim 3 – Instituto de Letras e Linguística
+FI074   Estudos Clássicos: Latim 4 – Instituto de Letras e Linguística
+GFI075   Estudos Clássicos: Grego 1
+GFI076   Estudos Clássicos: Grego 2
+GFI077   Estudos Clássicos: Grego 3
+GFI78     Estudos Clássicos: Grego 4
+GFI070   Língua Francesa: Ênfase na habilidade escrita – Instituto de Letras e Lingüística
+GFI164 – Introdução à Física – Instituto de Física
+GFI166 – Introdução à matemática – Faculdade de Matemática
+GFI167      Sociologia – Faculdade de Artes, Filosofia e Ciências Sociais - DECIS
+GFI168      Antropologia Cultural - Faculdade de Artes, Filosofia e Ciências Sociais - DECIS
+GFI169 – Introdução à Biologia – Instituto de Biologia
